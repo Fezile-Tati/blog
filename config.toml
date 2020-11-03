@@ -1,5 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Azori | blog "
 theme = "blog"
