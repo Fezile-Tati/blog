@@ -1,167 +1,87 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "Types Of Cloud & Web Hosting Options Available"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-5.jpg"
+image: "images/post/post-8.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Blog Aritcle on Cloud Services"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Cloud"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
+  - "IT"
+  - "Serverless"
   - "New"
 
 # post type
 type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+##Cloud Services
+
+
+<br>
+<hr>
+
+Cloud providers offer a number of different services, 
+clients these days have the ability to tailor their Hosting plan to meet their needs.
+Each cloud hosting company offers different options that come at different prices, capacities and features.
+The best type of web hosting plan depends on your needs and the type of website you are creating or managing.  
 
 <hr>
 
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
+<br>
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+##### Here are some of the most popular types of web hosting options
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+* Shared vm 
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
+Shared vm are virtual machines that are used by many clients at the same time. 
+The benefit of using a share vm is they are one of the most affordable options after preemptible vm.
+Vm are where the API lives and is hosted whether it be a blog or a simple static website.
+You can think of a shared server as a large, public computer that hosts websites.
+The downside of using a shared VM is that the available resources are capped and are on the lower end of the spectrum.
+shared servers share their memory and computing system with multiple sites, Although  sharing a server is not necessarily a problem for smaller static sites.
 <hr>
 
-##### Paragraph
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
+<br>
 <hr>
 
-##### List
+* VPN and VPS  web hosting 
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
+VPN stands for virtual private network, When selecting a cloud provider this option is baked in for all services you use from them.
+Google is known for their VPN because of the performance it offers, they are two option premium tier and standard. 
+The difference being, Premium tier is built on fiber-optic cabling.
+VPS  stands for Virtual Private Server and is offered  by cloud providers and web host providers.
+VPS does not mean non-sharing, you are still sharing a physical server unless a dedicated option is selected. 
+VPS web hosting plans generally come with various site-building software packages from various vendors like bitnami. 
 <hr>
 
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
+<br>
 <hr>
 
-##### Blockquote
+* Dedicated Web Hosting 
 
-> This is a blockquote example.
-
+Dedicated web hosting is best suited for websites that require more resources in order to cope with the amount of traffic the site receives.
+This hosting option is geared towards larger businesses and corporate websites use.
+This option is not a cheap one, this is because the benefits which includes faster CPU and Ram speeds,
+and the luxury of not sharing a vm that has to handle other traffic sources.
 <hr>
 
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
+<br>
 <hr>
 
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
+* Container
+Containerization has grown in popularity and is a service offered by various cloud providers.
+A container is a binary isolated environment that encapsulates a API.
+Containers can run on pretty much any operating system and solve the problem of software dependencies issues.
+Developers can now develop their application and run it on practically any os and not have to worry about things like versioning.
+Cloud providers offer container orchestration software that enables individuals to run massive clusters on the clouds robust network.  
 <hr>
 
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}

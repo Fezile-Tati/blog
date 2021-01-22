@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>Creative</title>
+      <link>https://fezile-tati.github.io/blog/tags/creative/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://fezile-tati.github.io/blog/tags/design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing</title>
+      <link>https://fezile-tati.github.io/blog/tags/digital-marketing/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/digital-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Game</title>
       <link>https://fezile-tati.github.io/blog/tags/game/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
@@ -21,11 +48,56 @@
     </item>
     
     <item>
+      <title>GCP</title>
+      <link>https://fezile-tati.github.io/blog/tags/gcp/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://fezile-tati.github.io/blog/tags/golang/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HTML</title>
       <link>https://fezile-tati.github.io/blog/tags/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://fezile-tati.github.io/blog/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>https://fezile-tati.github.io/blog/tags/it/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://fezile-tati.github.io/blog/tags/javascript/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://fezile-tati.github.io/blog/tags/marketing/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/marketing/</guid>
       <description></description>
     </item>
     
@@ -48,6 +120,15 @@
     </item>
     
     <item>
+      <title>Programing</title>
+      <link>https://fezile-tati.github.io/blog/tags/programing/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/programing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://fezile-tati.github.io/blog/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
@@ -57,11 +138,38 @@
     </item>
     
     <item>
-      <title>React</title>
-      <link>https://fezile-tati.github.io/blog/tags/react/</link>
+      <title>Serverless</title>
+      <link>https://fezile-tati.github.io/blog/tags/serverless/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://fezile-tati.github.io/blog/tags/react/</guid>
+      <guid>https://fezile-tati.github.io/blog/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socail Media</title>
+      <link>https://fezile-tati.github.io/blog/tags/socail-media/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/socail-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://fezile-tati.github.io/blog/tags/social-media/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Hosting</title>
+      <link>https://fezile-tati.github.io/blog/tags/web-hosting/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/tags/web-hosting/</guid>
       <description></description>
     </item>
     

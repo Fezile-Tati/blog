@@ -1,166 +1,99 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "Marketing during covid 19"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-3.jpg"
+image: "images/post/post-12.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Blog article on Marketing"
 
 # taxonomies
 categories: 
-  - "Programming Language"
+  - "Marketing"
 tags:
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Digital Marketing"
+  - "Socail Media"
 
 # post type
 type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
 
+### Is it time to implement different strategies ?
+
+<br>
+<hr>
+it's no surprise that the latest pandemic has resulted in numerous companies adjusting
+their marketing efforts and strategies. Covid has impacted organisations cash flow,
+and overall strategic approach. 
 <hr>
 
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
+<br>
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+ ###### here are some tips to apply to your marketing efforts during this recent pandemic
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+1. Use the current situation to improve customer relations
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+    This is the perfect time to show your customer how much you value them. Relationships are reinforced 
+    when overcoming difficult times with the person you value. Reassure your client
+    that they are more than a source of income but rather a valued individual to you and your business.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+2. Utilize all appropriate digital marketing channels
+   
+  The recent lock has closed many door but has also open many as well,
+  more customers are online now than ever before. It important to make the most of 
+  your digital channel to reach your target audience. Digital platform often offer
+  the most sophisticated means to precisely reach the right client at an affordable price.
+  If possible convert your product or services offering into a virtual offering that 
+  client can purchase at any location they may be.
 
 
-<hr>
+ 3. Increase your social media presences  
 
-##### Tables
+ * Post more frequently and consistently
 
-Colons can be used to align columns.
+ * Start or join conversations 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+ * Utilize sponsored posts or paid advertisements
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+ * Have an online contest
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+ * Keep your customers in the loop with store updates
 
-<hr>
+ * Promote special or limited-time offerings
+
+
+4. Use this time to network online
+
+  build more relationships online, more people are online now more than ever before for.
+  Use this as an opportunity to expand your network, engage with individuals you want to work with.
+  Because the pandemic  has resulted in more people being online they are more likely to reply to you faster.
+
+5. Optimise your digital presences 
+
+ Now more than ever the digital sphere has grown in competitiveness.  
+ It is Crucial that your website and other app are optimised for performance and Visibility.
+
+
+ <hr>
 
 ##### Image
 
-![image](../../images/post/post-1.jpg)
+![image](../../images/post/post-12.1.jpg)
 
 <hr>
 
-##### Youtube video
 
-{{< youtube C0DPdy98e4c >}}
+ ######  Here are some tips 
+
+ * Optimize your business website for mobile
+ * Create valuable content
+ * Do some SEO research and implement what you have not
+ * Incorporate keywords on your website pages
+ * Engage in online communities and forums
+ * Improve UX & UI
+
+<hr>

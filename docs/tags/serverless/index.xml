@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless on Azori | blog </title>
+    <link>https://fezile-tati.github.io/blog/tags/serverless/</link>
+    <description>Recent content in Serverless on Azori | blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://fezile-tati.github.io/blog/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Factors to consider when selecting a cloud Hosting provider</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-9/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-9/</guid>
+      <description>Consider the following when picking a provider Fast speeds Speed is absolutely necessary for a web hosting provider.</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud in south Africa</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-6/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-6/</guid>
+      <description>GCP laytency in Africa Google cloud infrastructure is best suited for organisations that require global coverage rather than just local south african coverage.</description>
+    </item>
+    
+    <item>
+      <title>Types Of Cloud &amp; Web Hosting Options Available</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-8/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-8/</guid>
+      <description>##Cloud Services
+Cloud providers offer a number of different services, clients these days have the ability to tailor their Hosting plan to meet their needs.</description>
+    </item>
+    
+    <item>
+      <title>Web Hosting in Africa</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-7/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-7/</guid>
+      <description>Hosting option for Africa BlueHost BlueHost is recommended for SME in South Africa because it performs in three essential spheres.</description>
+    </item>
+    
+  </channel>
+</rss>

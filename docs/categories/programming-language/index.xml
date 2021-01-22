@@ -12,12 +12,30 @@
     
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://fezile-tati.github.io/blog/blog/post-12/</link>
+      <title>Is JavaScript still necessary</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-2/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://fezile-tati.github.io/blog/blog/post-12/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://fezile-tati.github.io/blog/blog/post-2/</guid>
+      <description>Do you need JavaScript these days learning JavaScript will allow you to do the following things  Automations websites Development (front and back) Online Presentations Animations in websites Event Handling Animations in websites Develop Games Data-Science  </description>
+    </item>
+    
+    <item>
+      <title>Top five reasons to use Github</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-3/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-3/</guid>
+      <description>GitHub 2021 Here are five reasons we use GitHub  Free hosting  Our Web app currently is running two golang servers, one of which is hosted on google app engine the other on github.</description>
+    </item>
+    
+    <item>
+      <title>why python is so popular</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-10/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-10/</guid>
+      <description>Is python right for you Despite it slower performance million if developer, data scientist and other love python here are five reason why i think python is so popular  learning curve  Python has a short learning curve and is often recommended to beginners.</description>
     </item>
     
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "How to improve your UX (user experience) "
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -7,161 +7,104 @@ draft: false
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Blog on UX"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Web Design"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Design"
+  - "Programing"
+  - "Creative"
 
 # post type
 type: "featured"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-
-<hr>
-
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+## How to improve your UX
 
 
 <hr>
 
-##### Tables
 
-Colons can be used to align columns.
+User experience (UX) can be defined as the evoked emotion experienced by the individual navigating your application interface. An example of Ux is the joy a visitor felt when searching for a particular component of the API like the home button on their favorite site or the frustration of not finding the account setting in the API. UX and UI are critical for the success of any business or personal agenda and the two are inseparable when delivering a good API.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 <hr>
 
-##### Image
 
-![image](../../images/post/post-1.jpg)
+<hr>
+ UI deals with the aesthetic of the API,  what a visitor(client) sees throughout your mobile app or  website. 
+ UI is the design and structural  blueprint of the API, it determines how the API  looks and how customers will
+ interact with the component parts of the API. 
+<hr>
+
+
+### Here are six tips to help improve visitors user-experience 
+
+<hr>
+1. Content is king
+
+The expression Content is king is applicable for websites and apps. Areas that are often overlooked but play a pivotal role in retaining visitors is the headings and intro sections.Writing appropriate headings will allow you to catch the right visitors attention, avoid click bait. 
+As a strategy because it can backfire.Your content should resonate with your target market and attract the right audience.
+Another take away tip is to ensure the body content flows in a logical manner and is fitting with the heading.  
 
 <hr>
 
-##### Youtube video
+<br>
+<hr>
+2. Understand visitor interaction with the API
 
-{{< youtube C0DPdy98e4c >}}
+A number of tools exist that allow developers to understand how visitors interact with the API. Google analytic is a perfect example of how developers can monitor visitor  activities and interaction on the API. Knowing what visitors on your API are interested in allows developers to tune components that detract or contribute to the overall goal of the API. You should ensure the first thing visitors interact with is what they are interested in.
+<hr>
+<br>
+
+
+<hr>
+3. Know what you want from the customer
+
+An unnecessarily verbose website is not recommended, cutting out confusion improves your UX. Focus on your desired customer outcome, you don't want visitors to feel overwhelmed by your API . Try to ensure your  API is  single priority oriented , concentrate on providing the visitor with a pleasant experience whilst they navigate your API, but also ensure you attain your desired customer output. 
+
+<hr>
+<br>
+
+<hr>
+4. Aesthetic and agenda consistency 
+
+It is crucial your API is consistent with your brand and business agenda, each page on a website should align with each and complement the over purpose and  agenda of the API. This boosts UX and UI and results in visitors trusting your offering, key features to look out for are  Font sizes and styles, logos.
+
+
+<hr>
+<br>
+
+
+<hr>
+5. Customisation
+
+The more customisable your API is, the more likely visitors are going to have a pleasant opinion about the API.
+Customisable API have a larger range of  possible visitor satisfaction experiences  due to the ability
+the visitor has to change what they dislike or prefer less.   
+The disadvantage of a customizable API is the associate cost and time complex of developing the API.
+ 
+
+<hr>
+<br>
+
+<hr>
+6. Social Media
+
+Social media is so popular that it is hard to find someone that does not have a social media presence. Because of the mass popularity and familiarity of this social media platform people have begun to build a positive perception toward these platforms. Your  audience will mostly likely trust you more if you have a social media presence and  visitors are more likely to preserve your site as likely legit. Incorporating social media plugins into your API will
+Improve UX and visitor trust.   
+ 
+<hr>
+<br>
+<hr>
+
+##### Blockquote 
+
+> Design is the art of creating order - Fezile.T
+
+<hr>
+
+
+![image](../../images/post/post-1.1jpg)

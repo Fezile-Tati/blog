@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Azori | blog </title>
+    <link>https://fezile-tati.github.io/blog/categories/cloud/</link>
+    <description>Recent content in Cloud on Azori | blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://fezile-tati.github.io/blog/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Cloud in south Africa</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-6/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-6/</guid>
+      <description>GCP laytency in Africa Google cloud infrastructure is best suited for organisations that require global coverage rather than just local south african coverage.</description>
+    </item>
+    
+    <item>
+      <title>Types Of Cloud &amp; Web Hosting Options Available</title>
+      <link>https://fezile-tati.github.io/blog/blog/post-8/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://fezile-tati.github.io/blog/blog/post-8/</guid>
+      <description>##Cloud Services
+Cloud providers offer a number of different services, clients these days have the ability to tailor their Hosting plan to meet their needs.</description>
+    </item>
+    
+  </channel>
+</rss>

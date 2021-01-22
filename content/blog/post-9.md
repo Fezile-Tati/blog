@@ -1,79 +1,110 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "Factors to consider when selecting a cloud Hosting provider"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-6.jpg"
+image: "images/post/post-9jpg"
 
 # meta description
-description: "this is meta description"
+description: "Blog article on Web hosting"
 
 # taxonomies
 categories: 
-  - "Python"
+  - "Networking"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Serverless"
+  - "Programing"
+  - "Web Hosting"
 
 # post type
 type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+### Consider the following when picking a provider
+
+<br>
+<hr>
+
+##### Fast speeds 
+
+Speed is absolutely necessary for a web hosting provider. 
+A slow loading webpage is not good for business, high latency detracts form a good ux(user experience).
+Often high latency is prevalent when the data-center is located too far away from the client,
+or if the host is using a non-premium network like the public internet.
+It’s hard enough getting the attention of a new customer, but keeping it is even harder.
+When it comes to loading a web page, a few seconds can make a huge difference.
+Experts have shown that if your page takes even a second too long to load, customers are inclined to lose interest. 
+A helpful tip to consider is that dedicated server hosting will be faster than shared server hosting.
 
 <hr>
 
-##### Emphasis
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+<br>
+<hr>
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+##### prices and renewal 
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+In any commercial industry, managing your finances is a must.
+Often in the digital sphere, price determination is a factor of deciding between two trade-offs,
+performance and affordability. 
+It is also really important to pay attention to the renewal price of a plan. 
 
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+<br>
+<hr>
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+##### Consistent & reliable uptime numbers
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+The term ‘uptime’ refers to the amount of time that a website spends online functioning as normal. 
+Essentially, the better a web hosting provider’s uptime is the more data-center they have or
+sophisticated software in place that enables features like automatic instance reboots etc.
+Uptime is generally measured in percentiles, or the percent of the time that a server spends up as opposed to down.
+If possible use a web hosting provider that will guarantee at least  99.9% uptime. 
 
 <hr>
 
-##### Paragraph
+<br>
+<hr>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+##### storage  
+
+If you plan to have a website online you should beware that it requires a server,
+and that server and your site can not function without storage.
+Luckily most web hosting companies offer low prices on storage.
+The size of your website currently and in the future should be accounted for when selecting storage size.
+If possible, always select an SSD as opposed to an HDD, 
+SSD offers faster read/write time resulting in better website performance.
 
 <hr>
+
+
+
+<br>
+<hr>
+
+##### Free goodies 
+
+Some companies like to sell you services that should come standard in the package being sold. 
+A good web hosting provider should offer clients the necessities required for starting a website.
+A free SSL certificate and email address should be mandatory in any web hosting offering.  
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### List
 
