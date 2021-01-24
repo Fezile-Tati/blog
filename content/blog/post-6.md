@@ -86,7 +86,7 @@ networking and Data storage but you are concerned about how your will website pe
 
 ##### #GCP
 
-![image](../../images/post/post-6.1.jpg)
+![image](../../images/post/post-6.1.png)
 
 <hr>
 <br>

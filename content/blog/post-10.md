@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-10.jpg"
+image: "images/post/post-p.jpg"
 
 # meta description
 description: "Blog article on python programing"
@@ -77,7 +77,7 @@ fair less complex than c or c++ for example.
 <br>
 <hr>
 
-![image](../../images/post/post-10.1.jpg)
+![image](../../images/post/post-10.jpg)
 
 <hr>
 

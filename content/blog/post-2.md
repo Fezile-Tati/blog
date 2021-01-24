@@ -43,7 +43,7 @@ JavaScript is considered the king of the browser and browser are going anywhere 
 <hr>
 <br>
 
-![image](../../images/post/post-2.1.jpg)
+![image](../../images/post/post-2.jpg)
 
 <br>
 

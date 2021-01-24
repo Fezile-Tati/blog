@@ -107,4 +107,4 @@ Improve UX and visitor trust.
 <hr>
 
 
-![image](../../images/post/post-1.1jpg)
+![image](../../images/post/post-1.jpg)

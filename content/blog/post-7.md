@@ -170,7 +170,7 @@ doesn’t provide a free domain name or SSL, but these can be found within their
 1. Uptime: 99.90%
 2. Storage: 5GB
 3. Load Time: 617ms
-4.  Price: R99/ mo
+4. Price: R99/ mo
 
 <hr>
 <br>

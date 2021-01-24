@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-5.jpg"
+image: "images/post/post-5.png"
 
 # meta description
 description: "Blog article on golang"
